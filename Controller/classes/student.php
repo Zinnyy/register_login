@@ -10,6 +10,7 @@ class Student extends Database
     public $gender;
     public $level;
 
+    
     public $doc_table = "student";
 
 
